@@ -197,7 +197,7 @@ function FormPage({ onSubmit }) {
               type="text"
               name="username"
               id="username"
-              placeholder="RAVIKUMAR"
+              placeholder="SHRAWAN KUMAR"
               autoComplete="off"
               value={formdata.username}
               onChange={changeHandler}
